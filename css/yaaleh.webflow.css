@@ -2166,6 +2166,6 @@ body {
 }
 
 .address {
- color: #fff;
+ color: inherit;
  text-decoration: none;
 }

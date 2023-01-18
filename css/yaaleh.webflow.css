@@ -2185,3 +2185,8 @@ a:active {
 a {
  text-decoration: none;
 }
+
+.address {
+ color: #000;
+ text-decoration: none;
+}

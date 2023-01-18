@@ -2165,28 +2165,7 @@ body {
   margin-top: -50px;
 }
 
-/* link que ainda não foi acessado */
-a {
-   color: #000;
-}
-/* link que foi visitado */
-a:visited {
-    color: #555;
-}
-/* quando o ponteiro do mouse passa no link */
-a:hover {
-    color: #999;
-}
-/* quando o link for selecionado */
-a:active {
-    color: #333;
-}
-
-a {
- text-decoration: none;
-}
-
 .address {
- color: #000;
+ color: #fff;
  text-decoration: none;
 }
